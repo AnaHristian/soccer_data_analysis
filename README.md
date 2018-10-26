@@ -21,11 +21,16 @@ After completing the project, I will:
 
 ## Introduction
 
-In this project I will be analyzing data associated with matches and teams for European Professional Football from 2008 to 2016. In particular, I am interested in finding the top five and last three teams per country and share their performance. The columns I have as they are from the database are:
-    - name of the country: `country`;
-    - name of the league: `league`;
-    - years of the season: `match_season`.
+In this project I will be analyzing data associated with matches and teams for European Professional Football from 2008 to 2016. In particular, I am interested in finding the top five and last three teams per country and share their performance. 
+
+The database columns:
+
+    - Name of the country: `country`
+    - Name of the league: `league`
+    - Years of the season: `match_season`.
+    
 From the database I had the information about each  match from league and the number of goals each team gave. You can download the SQL script I used for this analysis from the **Resources** link or from <a href="matches.sql">here</a>. Therefore,  I calculated for each team per match season: 
+
     - the total number of game played: `game_played`;
     - total number of points: `points`;
     - how many games they won: `won`;
@@ -45,11 +50,13 @@ In order to answer this main question I have to first find the top five teams pe
 **Q2:** Which are the top five teams or top performers over the years, per country?
 
 In order to answer this question I followed the next steps:
+
     1. I filtered the data by country.
     2. I got the data for top five teams.
     3. I visualized the data with a bar chart for both number of points and goal difference.
 
 In order to answer my main question I used all the top five teams over and plotted their number of points over the years per country. I followed these steps:
+
     1. I got the the top five teams per country;
     2. I got the data for the top five teams per country: number of points and match season;
     3. I plotted the line for each team per country;
