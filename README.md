@@ -7,9 +7,9 @@ I have received a scholarship offerred by Bertelsmann and Udacity and this proje
 
 This soccer database comes from Kaggle and is well suited for data analysis and machine learning. It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. This dataset is quite extensive, and we encourage you to read more about it [here](https://www.kaggle.com/hugomathien/soccer).
 
-## What will I learn?
+## What will you learn?
 
-After completing the project, I will:
+After completing the project, you will:
 
   - Know all the steps involved in a typical data analysis process
   - Be comfortable posing questions that can be answered with a given dataset and then answering those questions
