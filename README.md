@@ -1,7 +1,7 @@
 
 # Project Overview
 
-I have received a scholarship offerred by Bertelsmann and Udacity and this project is the third one in the Data Analysis Nanodegree. In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
+This project is the third one in the Data Analysis Udacity Nanodegree offerred by Bertelsmann Data Science Scholarship. In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
 
 ## Dataset: [Soccer Database](https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a4cad_database/database.sqlite) (original source on [Kaggle](https://www.kaggle.com/hugomathien/soccer))
 
